@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UIComponentsExamples</string>
+
+    <array name="items">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        </array>
+
+</resources>
